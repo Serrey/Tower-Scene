@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 44d0a17d12266b44aadf784138122793
+guid: 88f9d1f62372aac49ad16afea2b7a030
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
@@ -14,7 +14,7 @@ ModelImporter:
     100016: pCylinder9
     100018: polySurface10
     100020: polySurface11
-    100022: polySurface114
+    100022: polySurface115
     100024: polySurface12
     100026: polySurface13
     100028: polySurface13 1
@@ -153,7 +153,7 @@ ModelImporter:
     400016: pCylinder9
     400018: polySurface10
     400020: polySurface11
-    400022: polySurface114
+    400022: polySurface115
     400024: polySurface12
     400026: polySurface13
     400028: polySurface13 1
@@ -281,9 +281,9 @@ ModelImporter:
     400272: transform77
     400274: transform8
     400276: transform9
-    2300000: polySurface114
-    3300000: polySurface114
-    4300000: polySurface114
+    2300000: polySurface115
+    3300000: polySurface115
+    4300000: polySurface115
     9500000: //RootNode
   materials:
     importMaterials: 1

@@ -1,28 +1,16 @@
 fileFormatVersion: 2
-guid: 6c6891b9d1f96d84baaa41d1d1641194
+guid: ed626a66b737a71458fbce15e582f216
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
     100000: //RootNode
     100002: polySurface1
-    100004: polySurface2
-    100006: polySurface4
-    100008: polySurface5
-    100010: pPlane2
-    100012: pPlane3
-    100014: transform1
-    100016: transform2
-    100018: transform3
+    100004: polySurface5
+    100006: pPlane3
     400000: //RootNode
     400002: polySurface1
-    400004: polySurface2
-    400006: polySurface4
-    400008: polySurface5
-    400010: pPlane2
-    400012: pPlane3
-    400014: transform1
-    400016: transform2
-    400018: transform3
+    400004: polySurface5
+    400006: pPlane3
     2300000: pPlane3
     3300000: pPlane3
     4300000: pPlane3
